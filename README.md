@@ -8,4 +8,4 @@
 damkavz/damkavz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![Alt Text](https://tenor.com/view/pokemon-pixel-art-haunter-red-blue-gif-18136629)
+
