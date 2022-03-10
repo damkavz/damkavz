@@ -1,12 +1,10 @@
-- 👋 Hi, I’m @damkavz
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<h1 align="center">Wsg I'm damkavz</h1>
+<h3 align="center">I came here to skid & shiii</h3>
 
-<!---
-damkavz/damkavz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ  ㅤㅤ![HAUNTER](https://c.tenor.com/CeiYlOyw55oAAAAi/pokemon-pixel-art.gif)
 
-<p><img align="middle" alt="gif" asrc="https://c.tenor.com/CeiYlOyw55oAAAAi/pokemon-pixel-art.gif" width= 500 height = 320 /></p>
+
+<h3 align="center"> >💋 Currently learning LuaU, Python, Javascript</h3>
+<h3 align="center"> >☎️ Contact me on discord notf1lthy#7299</h3>
+<h3 align="center"> >📌 Hopefully active this year</h3>
+<h3 align="center"> >📍 Africa, Kenya</h3>
