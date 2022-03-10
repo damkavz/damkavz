@@ -9,3 +9,4 @@ damkavz/damkavz is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 
+<p><img align="middle" alt="gif" asrc="https://c.tenor.com/CeiYlOyw55oAAAAi/pokemon-pixel-art.gif" width= 500 height = 320 /></p>
