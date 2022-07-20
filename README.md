@@ -1,10 +1,10 @@
-<h1 align="center">Wsg I'm damkavz</h1>
-<h3 align="center">I came here to skid & shiii</h3>
+<h1 align="center">F1lthy</h1>
+<h3 align="center">mentally drained soulja boy did it first doe</h3>
 
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ![HAUNTER](https://c.tenor.com/CeiYlOyw55oAAAAi/pokemon-pixel-art.gif)
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ![HAUNTER](https://c.tenor.com/IjJMxfOSEKQAAAAM/manga-dance.gif)
 
 
-<h3 align="center"> >💋 Currently learning LuaU, Python</h3>
-<h3 align="center"> >☎️ Contact me on discord notf1lthy#7299</h3>
-<h3 align="center"> >📌 Hopefully active this year</h3>
-<h3 align="center"> >📍 Africa, Kenya</h3>
+<h3 align="center"> >luaU & python fangirl</h3>
+<h3 align="center"> >F1Lthy#6055 on jkord</h3>
+<h3 align="center"> >trynna be active and work on projects</h3>
+<h3 align="center"> >located in your walls</h3>
